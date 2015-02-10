@@ -9,11 +9,8 @@ Hello World を 3 回出力するプログラムです。
 
 ## インストールおよび起動
 
-以下のコマンドでチェックアウトしてください。
-
-> git clone git@git:teloo/hello-world.git
-    
 以下のコマンドで実行してください。
-    
-> cd hello-world
-> node main.js
+
+```bash
+$ node main.js
+```
